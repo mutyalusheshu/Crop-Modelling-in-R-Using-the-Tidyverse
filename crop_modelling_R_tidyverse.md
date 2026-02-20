@@ -1,6 +1,6 @@
 # Crop Modelling in R Using the Tidyverse: A Practical Guide
 
-*Published on [Your Substack Name] | February 2026*
+*February 2026*
 
 ---
 
